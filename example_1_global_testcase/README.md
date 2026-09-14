@@ -11,7 +11,7 @@ Please download input files input_data_GFEN2p5km300m_151/ from google drive sinc
         Min resolution: 300 m for US, AK, HI
                       2500 m for global shore.
    
-    (2) Deep Ocean Bottom Pressure Recorder BPR HC data:
+    (2) 151 Deep Ocean Bottom Pressure Recorder BPR HC data:
    
         bpr_v130121_cm_13_20230406.mat
                       
