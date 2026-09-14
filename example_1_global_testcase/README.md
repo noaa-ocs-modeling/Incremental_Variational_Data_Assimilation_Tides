@@ -1,5 +1,6 @@
 This is a global test case of tides assimilation 
-Please download input files  from google drive since the file size is too big for Github: https://drive.google.com/file/d/1xjXA-MhBRLamUpR3D6yu164fu1cx6gam/view?usp=drive_link
+
+Please download input files input_data_GFEN2p5km300m_151/ from google drive since the file size is too big for Github: https://drive.google.com/file/d/1xjXA-MhBRLamUpR3D6yu164fu1cx6gam/view?usp=drive_link
 
 input files:
 
