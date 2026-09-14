@@ -44,3 +44,17 @@ Please download input files input_data_GFEN2p5km300m_151/ from google drive sinc
    <img width="4219" height="2344" alt="fGFEN2p5km300m_151_5km300m_151_2it_M2_ITE1_Local2_Ae2_bs0_T2_inv1_pos2dist_Lei_CF8_C5_uvCF8_2_corrNPSI" src="https://github.com/user-attachments/assets/7aa693a2-dbfa-447d-94b6-de276f4ebd7b" />
 
 The color inside circles reprent the obs values at the BPR stations.
+
+Tang, L., L. Shi, E. Myers, L. Huang, M. Michalski and S. White, 2019. Assimilating DART Data
+into an Upgrade of VDatum for the US West Coast, OCEANS 2019 MTS/IEEE SEATTLE,
+Seattle, WA, USA, 2019, pp. 1-4, doi: 10.23919/OCEANS40490.2019.8962832.
+
+Full text:
+
+https://repository.library.noaa.gov/view/noaa/67537
+
+Shi, Lei, L. Tang, and E. Myers, 2020. Variational Data Assimilation of Tides. Journal of Marine
+Science and Engineering 8, no. 1: 54. https://doi.org/10.3390/jmse8010054
+
+
+
