@@ -1,4 +1,4 @@
-This is a global test case of tides assimilation 
+This is a global test case of tides assimilation. First tested in 2019 for 4 harmonic constituents; Extended to 8 in 2023; Recheck the code and put in GitHub in September, 2026. Please see references for detail algorithms.   
 
 Please download input files input_data_GFEN2p5km300m_151/ from google drive since the file size is too big for Github: https://drive.google.com/file/d/1xjXA-MhBRLamUpR3D6yu164fu1cx6gam/view?usp=drive_link
 
@@ -57,5 +57,6 @@ https://repository.library.noaa.gov/view/noaa/67537
 Shi, Lei, L. Tang, and E. Myers, 2020. Variational Data Assimilation of Tides. Journal of Marine
 Science and Engineering 8, no. 1: 54. https://doi.org/10.3390/jmse8010054
 
+Tang, L., L. Shi, E. P. Myers, I. Jeong, S. White, J. Riley, S. Peeri, N. Murry, L. Huang, M. Michalski, C. Fanelli, C. Hoang, and D. Graham, 2025. Regional VDatum upgrade for the U.S. West Coast: Tidal datums, tide assimilation, spatially varying uncertainty, and topography of the sea surface. NOAA Technical Memorandum NOS CS 61, National Ocean Service, Office of Coast Survey, Coast Survey Development Laboratory, Silver Spring, Maryland. DOI: 10.25923/e189-ne87
 
 
