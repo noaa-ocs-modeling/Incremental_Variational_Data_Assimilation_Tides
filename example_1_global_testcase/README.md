@@ -58,5 +58,7 @@ Shi, Lei, L. Tang, and E. Myers, 2020. Variational Data Assimilation of Tides. J
 Science and Engineering 8, no. 1: 54. https://doi.org/10.3390/jmse8010054
 
 Tang, L., L. Shi, E. P. Myers, I. Jeong, S. White, J. Riley, S. Peeri, N. Murry, L. Huang, M. Michalski, C. Fanelli, C. Hoang, and D. Graham, 2025. Regional VDatum upgrade for the U.S. West Coast: Tidal datums, tide assimilation, spatially varying uncertainty, and topography of the sea surface. NOAA Technical Memorandum NOS CS 61, National Ocean Service, Office of Coast Survey, Coast Survey Development Laboratory, Silver Spring, Maryland. DOI: 10.25923/e189-ne87
+https://doi.org/10.25923/e189-ne87
+
 
 
