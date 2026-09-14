@@ -31,7 +31,7 @@ Please download input files input_data_GFEN2p5km300m_151/ from google drive sinc
    
    Friction: CF=8;
    
-   Those infor will be saved at the output file name.
+   Those infor will be saved at the output file name. Each harmonic takes about half an hour using one processor.
    
    output results to
    
