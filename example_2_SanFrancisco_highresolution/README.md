@@ -50,3 +50,12 @@ Those infor will be saved at the output file name. Each harmonic takes about sev
 
   <img width="2535" height="1554" alt="f_SF_Bay_DA" src="https://github.com/user-attachments/assets/d060f8be-97a5-4d8b-a3f4-e52592ebb5c2" />
 
+The color inside circles reprent the obs values at the BPR stations.
+
+References:
+
+Tang, L., L. Shi, E. Myers, L. Huang, M. Michalski and S. White, 2019. Assimilating DART Data into an Upgrade of VDatum for the US West Coast, OCEANS 2019 MTS/IEEE SEATTLE, Seattle, WA, USA, 2019, pp. 1-4, doi: 10.23919/OCEANS40490.2019.8962832. Full text: https://repository.library.noaa.gov/view/noaa/67537
+
+Shi, Lei, L. Tang, and E. Myers, 2020. Variational Data Assimilation of Tides. Journal of Marine Science and Engineering 8, no. 1: 54. https://doi.org/10.3390/jmse8010054
+
+Tang, L., L. Shi, E. P. Myers, I. Jeong, S. White, J. Riley, S. Peeri, N. Murry, L. Huang, M. Michalski, C. Fanelli, C. Hoang, and D. Graham, 2025. Regional VDatum upgrade for the U.S. West Coast: Tidal datums, tide assimilation, spatially varying uncertainty, and topography of the sea surface. NOAA Technical Memorandum NOS CS 61, National Ocean Service, Office of Coast Survey, Coast Survey Development Laboratory, Silver Spring, Maryland. https://doi.org/10.25923/e189-ne87
