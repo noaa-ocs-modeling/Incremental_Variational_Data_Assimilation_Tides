@@ -28,10 +28,10 @@ https://drive.google.com/file/d/19XqEJZ5qoTDBM1P_WgpAkdPqsgM8lXt-/view?usp=drive
 
 2. Run tides assimilation code for the San Franciso case. It takes about minutes for each harmonic constituent
 
-      LTEs_BW_bohai_v03t2_20230331_SFWC.m
+       LTEs_BW_bohai_v03t2_20230331_SFWC.m
    
-      Iteration: 1000;
-      Friction: CF=7;
+       Iteration: 1000;
+       Friction: CF=7;
 
 Those infor will be saved at the output file name. Each harmonic takes about several minutes using one processor.
 
