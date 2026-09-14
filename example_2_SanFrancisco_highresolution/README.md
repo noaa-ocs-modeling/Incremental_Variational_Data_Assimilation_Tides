@@ -12,7 +12,7 @@ https://drive.google.com/file/d/19XqEJZ5qoTDBM1P_WgpAkdPqsgM8lXt-/view?usp=drive
    
          Total size: 222404 K
          Min resolution: 300 m for West Coast
-                       50 m for San Francisco Bay SCHISM grid.
+                       5 m for San Francisco Bay SCHISM grid.
                   
    (2) 6 Deep Ocean Bottom Pressure Recorder BPR HC data:
    
@@ -28,9 +28,9 @@ https://drive.google.com/file/d/19XqEJZ5qoTDBM1P_WgpAkdPqsgM8lXt-/view?usp=drive
 
 2. Run tides assimilation code for the San Franciso case. It takes about minutes for each harmonic constituent
 
-      LTEs_BW_bohai_v03t2_20230331.m
+      LTEs_BW_bohai_v03t2_20230331_SFWC.m
+   
       Iteration: 1000;
-      
       Friction: CF=7;
 
 Those infor will be saved at the output file name. Each harmonic takes about several minutes using one processor.
@@ -38,8 +38,9 @@ Those infor will be saved at the output file name. Each harmonic takes about sev
 3. output results to
 
       out_SFWC300s3/endresults_SFWC300s3_1000it_M2_ITE1_Local2_Ae2_bs0_T2_inv1_pos2dist_Lei_CF7_C5_uvCF8.mat
+   
 
-4. Plot the result
+5. Plot the result
 
      for all domain
          a3_SF_plotcheck_garesults_SFWC.m
