@@ -2,7 +2,7 @@ This repository has several test cases for tides assimilation:
 
 Two types: 
 
-        Direct plug in examples 1-3
+        Direct LTEs examples 1-3
         Incremental Variational tides assimilation examples 4-6 
 
 Codes have been adding on more features over the years. This repository documents the codes used for different examples
