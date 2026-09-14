@@ -51,7 +51,7 @@ Those infor will be saved at the output file name. Each harmonic takes about sev
 
   <img width="2535" height="1554" alt="f_SF_Bay_DA" src="https://github.com/user-attachments/assets/d060f8be-97a5-4d8b-a3f4-e52592ebb5c2" />
 
-The color inside circles reprent the obs values at the BPR stations.
+The color inside circles represent the observations at the stations. Only 6 BPR for Data assimilation. Tide stations were for validation and were not used for data assimilation for this testcase. 
 
 References:
 
