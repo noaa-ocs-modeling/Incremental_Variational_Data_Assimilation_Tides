@@ -1,8 +1,9 @@
 This repository has several test cases for tides assimilation over the past years.  
 
 Two types: 
-Direct plug in examples
-Incremental Variational tides assimilation
+
+        Direct plug in examples 1-4
+        Incremental Variational tides assimilation examples 5 
 
 Codes have been adding on more features over the years. This repository documents the codes used for different examples
 
