@@ -37,17 +37,17 @@ Those infor will be saved at the output file name. Each harmonic takes about sev
 
 3. output results to
 
-      out_SFWC300s3/endresults_SFWC300s3_1000it_M2_ITE1_Local2_Ae2_bs0_T2_inv1_pos2dist_Lei_CF7_C5_uvCF8.mat
+       out_SFWC300s3/endresults_SFWC300s3_1000it_M2_ITE1_Local2_Ae2_bs0_T2_inv1_pos2dist_Lei_CF7_C5_uvCF8.mat
    
 
 5. Plot the result
 
-     for all domain
+      for all domain
          a3_SF_plotcheck_garesults_SFWC.m
    
 <img width="1000" height="1000" alt="fSFWC300s3_0s3_1000it_M2_ITE1_Local2_Ae2_bs0_T2_inv1_pos2dist_Lei_CF7_C5_uv_2_corrNPSI" src="https://github.com/user-attachments/assets/d0a970b3-ba05-4254-be47-d85c2bc072a5" />
 
-     Zoom into San Francisco Bay
+      Zoom into San Francisco Bay
 
   <img width="2535" height="1554" alt="f_SF_Bay_DA" src="https://github.com/user-attachments/assets/d060f8be-97a5-4d8b-a3f4-e52592ebb5c2" />
 
