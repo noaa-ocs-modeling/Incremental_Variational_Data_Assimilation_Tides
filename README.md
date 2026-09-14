@@ -1,4 +1,4 @@
-This repository has several test cases for tides assimilation over the past years.  
+This repository has several test cases for tides assimilation:  
 
 Two types: 
 
