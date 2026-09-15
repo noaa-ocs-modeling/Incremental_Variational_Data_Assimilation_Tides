@@ -1,4 +1,4 @@
-This is a global test case of tides assimilation. First tested in 2019 for 4 harmonic constituents; Extended to 8 in 2023; Rechecedk the code and uploaded in GitHub in September, 2026. Please see references for detail algorithms.   
+This is a global test case of tides assimilation. First tested in 2019 for 4 harmonic constituents; Extended to 8 HCs in 2023; Rechecked the codes and uploaded in GitHub in September, 2026. Please see references for detail algorithms.   
 
 Please download input files input_data_GFEN2p5km300m_151/ from google drive since the file size is too big for Github: https://drive.google.com/file/d/1xjXA-MhBRLamUpR3D6yu164fu1cx6gam/view?usp=drive_link
 
@@ -11,11 +11,11 @@ Please download input files input_data_GFEN2p5km300m_151/ from google drive sinc
         Min resolution: 300 m for US, AK, HI
                       2500 m for global shore.
    
-    (2) 151 Deep Ocean Bottom Pressure Recorder BPR HC data:
+    (2) 151 Deep Ocean Bottom Pressure Recorder BPR HC data used for data assimilation:
    
         bpr_v130121_cm_13_20230406.mat
                       
-    (3)  for internal tide dissipation if you use this option. It is computed by using  OceanMesh2D:
+    (3)  For internal tide dissipation if you use this option. It is computed by using  OceanMesh2D:
 
        HxyNb_GFEN2p5km300m_151.mat
     
@@ -27,11 +27,11 @@ Please download input files input_data_GFEN2p5km300m_151/ from google drive sinc
 
        LTEs_BW_bohai_v03t2_20230331.m
    
-   Iteration: 2;
+       Iteration: 2;
    
-   Friction: CF=8;
+       Friction: CF=8;
    
-   Those infor will be saved at the output file name. Each harmonic takes about half an hour using one processor.
+       Those info will be saved at the output file name. Each harmonic takes about half an hour using one processor.
    
    output results to
    
